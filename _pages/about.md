@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>[ISSE](https://en.ritsumei.ac.jp/ise/isse/)</a>. Ritsumeikan University. Japan🌸
+subtitle: <a href='#'>[ISSE](https://en.ritsumei.ac.jp/ise/isse/) </a>. Ritsumeikan University. Japan🌸
 
 profile:
   align: right
