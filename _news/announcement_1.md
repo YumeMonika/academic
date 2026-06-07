@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My second year of university starts from today OvO.I am honored to say that I will attend researches in 【[ab]（https://dgovsys.org/) from this sem and on.
+My second year of university starts from today OvO.I am honored to say that I will attend researches in [lab]（https://dgovsys.org/) from this sem and on.
