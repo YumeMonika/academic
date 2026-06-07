@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My second year of university starts from today OvO. From this semester, I will attend researches in lab as well.
+My second year of university starts from today OvO. From this semester, I will attend researches in lab（https://dgovsys.org/） as well.
