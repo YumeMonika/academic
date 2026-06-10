@@ -30,3 +30,4 @@ latest_posts:
 Hi! I am currently a 2nd year student :) 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+> 路漫漫其修远兮，吾将上下而求索。
