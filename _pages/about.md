@@ -15,7 +15,11 @@ profile:
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-
+<div class="quote-container">
+  <blockquote class="quote-text" style="font-size: 1.4rem; line-height: 1.8; margin: 1.5rem 0; font-weight: 500;">
+    路漫漫其修远兮，吾将上下而求索。
+  </blockquote>
+</div>
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
@@ -30,9 +34,4 @@ latest_posts:
 Hi! I am currently a 2nd year student :) 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
-<div class="quote-container">
-  <blockquote class="quote-text" style="font-size: 1.4rem; line-height: 1.8; margin: 1.5rem 0; font-weight: 500;">
-    路漫漫其修远兮，吾将上下而求索。
-  </blockquote>
-</div>
 
