@@ -15,11 +15,8 @@ profile:
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-<div class="quote-container">
-  <blockquote class="quote-text" style="font-size: 1.4rem; line-height: 1.8; margin: 1.5rem 0; font-weight: 500;">
-    路漫漫其修远兮，吾将上下而求索。
-  </blockquote>
-</div>
+> 路漫漫其修远兮，吾将上下而求索。
+
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
